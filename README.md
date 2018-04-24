@@ -1,2 +1,2 @@
 # hello-git
-the first step of mine
+the second   step of mine
